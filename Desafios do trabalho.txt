@@ -1,0 +1,19 @@
+Informações relevantes que devem constar no trabalho
+
+ - Como foi o comportamento da população
+ - indicadores importantes para o planejamento
+ - dados importantes pra a análise
+   - Características clinicas dos sintomas
+   - características da população
+   - características econômicas da população
+ - organizar dadois para a análise
+ - Utilizaçõa de no máximo 20 questionamentos realizados na pesquisa
+ - Base de dados de 3meses
+ - Características dos sintomas clinicos
+ - comportamentos na época
+ - características econômicas da sociedade
+
+Análise
+ - Como foi a Organização do banco de dados
+ - Perguntas selecionadas para a resposta do problema
+ - Quais são as principais ações que o hospital deverá tomar em caso de um novo surto
